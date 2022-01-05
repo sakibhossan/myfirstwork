@@ -1,0 +1,32 @@
+body{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Rubik', sans-serif; 
+    margin:0;
+}
+.new{
+    color:orange;
+}
+h1{
+    font-size:50px;
+}
+section{
+    display: flex;
+}
+.half-width{width:50%;
+    padding-left:20px;
+
+}
+.half-width img{
+    width:80%;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.workplace{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
